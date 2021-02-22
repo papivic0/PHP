@@ -1,0 +1,1 @@
+The difference between a cookie and a session variable is that cookies are stored on the client side while sessions are stored on the server side
